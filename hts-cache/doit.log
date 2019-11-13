@@ -1,0 +1,8 @@
+https://evolution-rgaa.numerique.gouv.fr -W -O /Users/jpg/websites/evolution-rgaa.numerique.gouv.fr -F "Mozilla 1.0, Sparc, Solaris 23.54.34" -%v
+File generated automatically on Sat, 09 Nov 2019 20:43:13, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

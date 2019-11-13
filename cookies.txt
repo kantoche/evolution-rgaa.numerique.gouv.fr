@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.legifrance.gouv.fr	TRUE	/	FALSE	1999999999	JSESSIONID	046A6EFE0F01419D291F2EAF3295BB35.tplgfr33s_3
+.legifrance.gouv.fr	TRUE	/	FALSE	1999999999	visid_incap_1235873	jiII3hOaTmaT7n9qljJRGNYZx10AAAAAQUIPAAAAAACWWfO0ZGRpwScImPn+ixIR
+.legifrance.gouv.fr	TRUE	/	FALSE	1999999999	nlbi_1235873	x7mBCMuurVTFjTuK1NAj6wAAAAD0ZSjqaN3md3J1HBz5pivV
+.legifrance.gouv.fr	TRUE	/	FALSE	1999999999	incap_ses_189_1235873	aUDXUriHCjYb8zJJl3mfAtYZx10AAAAAESIswklr6UjvaQMa7D3cnA==
+eur-lex.europa.eu	TRUE	/	FALSE	1999999999	ELX_SESSIONID	srtRvPcxWjHPH3qKtWQ53m33yYWmNblc2ZrXP5rWYUp6QlaEBsDS!1744745569
+eur-lex.europa.eu	TRUE	/	FALSE	1999999999	AWSALB	iSG/EMaOXK1Cy0RVz57dUq26g2JNdkhQJJnQyNaHWtjDyoCgG/E0kFdn9YzmiM4Adtw+U/ylyZTX5DZx0baBSyr02i6qPAzZR/kHAsnGYF5XfBwGrA2YdygCjHR8
+
